@@ -1,5 +1,5 @@
 {
-  "name": "@esbuild/linux-arm",
+  "name": "@cfpreview/esbuild-linux-arm",
   "version": "0.18.21",
   "description": "The Linux ARM binary for esbuild, a JavaScript bundler.",
   "repository": "https://github.com/evanw/esbuild",

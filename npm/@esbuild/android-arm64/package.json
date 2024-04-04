@@ -1,5 +1,5 @@
 {
-  "name": "@esbuild/android-arm64",
+  "name": "@cfpreview/esbuild-android-arm64",
   "version": "0.18.21",
   "description": "The Android ARM 64-bit binary for esbuild, a JavaScript bundler.",
   "repository": "https://github.com/evanw/esbuild",
