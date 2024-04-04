@@ -1,42 +1,42 @@
 {
-	"name": "@cfpreview/esbuild",
-	"version": "0.18.21",
-	"description": "An extremely fast JavaScript and CSS bundler and minifier.",
-	"repository": "https://github.com/evanw/esbuild",
-	"scripts": {
-		"postinstall": "node install.js"
-	},
-	"main": "lib/main.js",
-	"types": "lib/main.d.ts",
-	"engines": {
-		"node": ">=12"
-	},
-	"bin": {
-		"esbuild": "bin/esbuild"
-	},
-	"optionalDependencies": {
-		"@cfpreview/esbuild-android-arm": "0.18.21",
-		"@cfpreview/esbuild-android-arm64": "0.18.21",
-		"@cfpreview/esbuild-android-x64": "0.18.21",
-		"@cfpreview/esbuild-darwin-arm64": "0.18.21",
-		"@cfpreview/esbuild-darwin-x64": "0.18.21",
-		"@cfpreview/esbuild-freebsd-arm64": "0.18.21",
-		"@cfpreview/esbuild-freebsd-x64": "0.18.21",
-		"@cfpreview/esbuild-linux-arm": "0.18.21",
-		"@cfpreview/esbuild-linux-arm64": "0.18.21",
-		"@cfpreview/esbuild-linux-ia32": "0.18.21",
-		"@cfpreview/esbuild-linux-loong64": "0.18.21",
-		"@cfpreview/esbuild-linux-mips64el": "0.18.21",
-		"@cfpreview/esbuild-linux-ppc64": "0.18.21",
-		"@cfpreview/esbuild-linux-riscv64": "0.18.21",
-		"@cfpreview/esbuild-linux-s390x": "0.18.21",
-		"@cfpreview/esbuild-linux-x64": "0.18.21",
-		"@cfpreview/esbuild-netbsd-x64": "0.18.21",
-		"@cfpreview/esbuild-openbsd-x64": "0.18.21",
-		"@cfpreview/esbuild-sunos-x64": "0.18.21",
-		"@cfpreview/esbuild-win32-arm64": "0.18.21",
-		"@cfpreview/esbuild-win32-ia32": "0.18.21",
-		"@cfpreview/esbuild-win32-x64": "0.18.21"
-	},
-	"license": "MIT"
+  "name": "@cfpreview/esbuild",
+  "version": "0.18.21-2",
+  "description": "An extremely fast JavaScript and CSS bundler and minifier.",
+  "repository": "https://github.com/evanw/esbuild",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "main": "lib/main.js",
+  "types": "lib/main.d.ts",
+  "engines": {
+    "node": ">=12"
+  },
+  "bin": {
+    "esbuild": "bin/esbuild"
+  },
+  "optionalDependencies": {
+    "@cfpreview/esbuild-android-arm": "0.18.21-2",
+    "@cfpreview/esbuild-android-arm64": "0.18.21-2",
+    "@cfpreview/esbuild-android-x64": "0.18.21-2",
+    "@cfpreview/esbuild-darwin-arm64": "0.18.21-2",
+    "@cfpreview/esbuild-darwin-x64": "0.18.21-2",
+    "@cfpreview/esbuild-freebsd-arm64": "0.18.21-2",
+    "@cfpreview/esbuild-freebsd-x64": "0.18.21-2",
+    "@cfpreview/esbuild-linux-arm": "0.18.21-2",
+    "@cfpreview/esbuild-linux-arm64": "0.18.21-2",
+    "@cfpreview/esbuild-linux-ia32": "0.18.21-2",
+    "@cfpreview/esbuild-linux-loong64": "0.18.21-2",
+    "@cfpreview/esbuild-linux-mips64el": "0.18.21-2",
+    "@cfpreview/esbuild-linux-ppc64": "0.18.21-2",
+    "@cfpreview/esbuild-linux-riscv64": "0.18.21-2",
+    "@cfpreview/esbuild-linux-s390x": "0.18.21-2",
+    "@cfpreview/esbuild-linux-x64": "0.18.21-2",
+    "@cfpreview/esbuild-netbsd-x64": "0.18.21-2",
+    "@cfpreview/esbuild-openbsd-x64": "0.18.21-2",
+    "@cfpreview/esbuild-sunos-x64": "0.18.21-2",
+    "@cfpreview/esbuild-win32-arm64": "0.18.21-2",
+    "@cfpreview/esbuild-win32-ia32": "0.18.21-2",
+    "@cfpreview/esbuild-win32-x64": "0.18.21-2"
+  },
+  "license": "MIT"
 }
